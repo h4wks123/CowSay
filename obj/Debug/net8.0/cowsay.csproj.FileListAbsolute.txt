@@ -1,0 +1,14 @@
+/home/hawks/cowsay/bin/Debug/net8.0/cowsay
+/home/hawks/cowsay/bin/Debug/net8.0/cowsay.deps.json
+/home/hawks/cowsay/bin/Debug/net8.0/cowsay.runtimeconfig.json
+/home/hawks/cowsay/bin/Debug/net8.0/cowsay.dll
+/home/hawks/cowsay/bin/Debug/net8.0/cowsay.pdb
+/home/hawks/cowsay/obj/Debug/net8.0/cowsay.GeneratedMSBuildEditorConfig.editorconfig
+/home/hawks/cowsay/obj/Debug/net8.0/cowsay.AssemblyInfoInputs.cache
+/home/hawks/cowsay/obj/Debug/net8.0/cowsay.AssemblyInfo.cs
+/home/hawks/cowsay/obj/Debug/net8.0/cowsay.csproj.CoreCompileInputs.cache
+/home/hawks/cowsay/obj/Debug/net8.0/cowsay.dll
+/home/hawks/cowsay/obj/Debug/net8.0/refint/cowsay.dll
+/home/hawks/cowsay/obj/Debug/net8.0/cowsay.pdb
+/home/hawks/cowsay/obj/Debug/net8.0/cowsay.genruntimeconfig.cache
+/home/hawks/cowsay/obj/Debug/net8.0/ref/cowsay.dll
